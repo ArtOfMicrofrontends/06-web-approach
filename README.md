@@ -96,3 +96,7 @@ chmod +x run.sh
 ```sh
 ./run.sh
 ```
+
+9. Play around with assets, links, and fragments.
+
+10. Add a linking directory to the gateway.
