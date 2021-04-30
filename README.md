@@ -1,4 +1,47 @@
-# Steps
+# Chapter 06
+
+## Prerequisites
+
+The following software is required to run the sample:
+
+- Git
+- Node.js
+- NPM
+- Bash
+
+## Running
+
+Clone the repository:
+
+```sh
+git clone https://github.com/ArtOfMicrofrontends/06-web-approach.git
+```
+
+Go to the repository's directory and run NPM install in each subdirectory:
+
+```sh
+cd mf-1
+npm install
+cd ..
+
+cd mf-2
+npm install
+cd ..
+
+cd mf-gw
+npm install
+cd ..
+```
+
+Now start the application:
+
+```sh
+./run.sh
+```
+
+## Steps
+
+Follow these steps to implement the same from scratch.
 
 1. Create the microfrontends
 
